@@ -1,4 +1,4 @@
-    # Projeto Lista de compras
+# Projeto Lista de compras
 
 ### Descrição
 Projeto acâdemico com foco em desenvolver uma aplicação com JavaScript
