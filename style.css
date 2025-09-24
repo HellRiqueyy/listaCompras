@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: rgb(234, 234, 234);
+}
+
+.concluida {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.btnRemover {
+    margin-left: 10px;
+    color: red;
+    cursor: pointer;
+}
+
+.painel {
+    display: block;
+    justify-items: center;
+    background-color: rgb(208, 198, 246);
+    margin: auto;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.caixa {
+    padding: 10px 40px;
+    margin-top: 30px;
+    background-color: rgb(162, 246, 178);
+    border-radius: 5%;
+}
